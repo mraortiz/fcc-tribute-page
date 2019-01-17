@@ -1,0 +1,81 @@
+html,
+body {
+  margin: 0 !important;
+  padding: 0 !important;
+  max-width: 100%;
+  display: block;
+  text-align: center;
+  background-color: #3f51b5;
+}
+
+#title {
+  font-family: "Oswald";
+  margin-top: 0;
+  background-color: #273382;
+  box-shadow: 0px 9px 15px 2px rgba(0, 0, 0, 0.4);
+  height: 100px;
+}
+
+#mainTitle {
+  margin-top: 0;
+  padding-bottom: 5px;
+  font-size: 50px;
+  text-shadow: 0px 0px 10px rgba(255, 255, 255, 1);
+}
+
+#subTitle {
+  margin-top: -55px;
+  text-shadow: 0px 0px 10px rgba(255, 255, 255, 1);
+}
+
+#snaggletooth {
+  height: 100px;
+  width: 100px;
+  float: left;
+}
+
+#image {
+  text-align: center;
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+  border: 3px solid #bdbdbd;
+  box-shadow: 0px 0px 15px 2px rgba(0, 0, 0, 0.45);
+}
+
+#img-div {
+  margin-top: 50px;
+}
+
+#img-caption {
+  text-align: center;
+  margin-left: 72px;
+  font-size: 20px;
+  background-color: #c5cae9;
+  margin: auto;
+  width: 400px;
+}
+
+#tribute-info {
+  text-align: center;
+  background-color: #c5cae9;
+  max-width: 89%;
+  display: block;
+  height: auto;
+  margin: 20px auto;
+  border: 3px solid #bdbdbd;
+}
+
+.tribute-paragraph {
+  text-align: justify;
+  max-width: 89%;
+  margin-left: 72px;
+}
+
+#test {
+  font-size: 20px;
+  text-align: left;
+  margin-left: 70px;
+  margin-top: 10px;
+}
